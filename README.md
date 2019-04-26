@@ -1,10 +1,9 @@
 # NewsApp
 Exploration for simple NewsApp
 
-#ScreenShoot
+# ScreenShoot
 
-![Alt text](/ScrennShoots/ScreenShot1.png?raw=true "Main Activity")
-![Alt text](/ScrennShoots/ScreenShot2.png?raw=true "Search Activity)
+![Alt text](/ScrennShoots/ScreenShot1.png?raw=true "Main Activity") ![Alt text](/ScrennShoots/ScreenShot2.png?raw=true "Search Activity")
 
 # Features
 1. Retreving data from https://newsapi.org/ and show it in MainActivity.
