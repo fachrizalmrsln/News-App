@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">News App</string>
+    <string name="title">Title</string>
+    <string name="dummy_date">15 November 2019</string>
+    <string name="dummy_title">Title</string>
+    <string name="dummy_description">Description</string>
+    <string name="dummy_authors">Authors</string>
+    <string name="search">Search</string>
+    <string name="upz" tools:ignore="TypographyEllipsis">Upz...</string>
+    <string name="there_s_nothing_here">There\'s Nothing Here !</string>
+</resources>
