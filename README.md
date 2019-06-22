@@ -13,5 +13,5 @@ Exploration for simple NewsApp
 5. SwipeToRefresh.
 6. Kotlin.
 
-# Authors
+# Authors 
 Fachrizal A. Z. Mursalin
